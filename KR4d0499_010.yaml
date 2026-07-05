@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR4d0499/krp/v1/juan/10
 seq: 10
 front:
-  text: 右檜亭集天台丁先生詩也先生名復字仲容壯遊京師公卿薦之館閣不就而去放情詩酒終老江湖之上今所類諸體詩凡三百一十五首分為九卷合為一帙前集則其壻饒介之所録續集則其門人李謹之所搜輯也南臺監察御史張君惟逺見而愛之惜不大傳于時移文有司鋟梓集慶學官教授查信卿實董其事惟先生之才足以追配古作而鳴國家之盛乃弗見諸用以沒觀其命詞托興高逺閒適敻然無塵俗意闕
-  hash: sha256:5c8c2e60ddbc4f26b20a4aa9f8f206105de18976612466fdc1bae44159fa2df3
+  text: 右檜亭集天台丁先生詩也先生名復字仲容壯遊京師公卿薦之館閣不就而去放情詩酒終老江湖之上今所類諸體詩凢三百一十五首分為九卷合為一帙前集則其婿饒介之所録續集則其門人李謹之所蒐輯也南臺監察御史張君惟逺見而愛之惜不大傳于時移文有司鋟梓集慶學官教授查信卿實董其事惟先生之才足以追配古作而鳴國家之盛乃弗見諸用以没觀其命詞托興高逺閒適夐然無塵俗意闕
+  hash: sha256:5a3320e8a4f1b390817a12744c22201b5f057461b1fb5fdb9e30bd00868c08b7
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0499_WYG_010-1a, image: WYG1208/WYG1208-0389a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0499/KR4d0499_010.txt
-hash: sha256:1a5c4b6d6b1e7af39f85f124a108df7a8c98e0a69242261a0d20d52b8fdae3b4
+hash: sha256:2fabc264e1e62cd2525e25326fc59ac4e543153905c978707b258ee02d9490f1
