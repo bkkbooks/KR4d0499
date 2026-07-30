@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR4d0499/bkk/v1/markers/10
 seq: 10
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR4d0499_krp_010-bkkkrnewl1}
@@ -42,25 +42,24 @@ markers:
   - {type: substitution, offset: 159, original: 夐, replacement: 敻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20781}}
   - {type: punctuation, offset: 165, content: (, id: KR4d0499_krp_010-bkkpn1}
   - {type: 'voice:problem', offset: 165, length: 0, id: KR4d0499_bkk_010-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 165}
-  body:
-  - {type: punctuation, offset: 0, content: /, id: KR4d0499_krp_010-bkkpn1}
-  - {type: punctuation, offset: 0, content: ), id: KR4d0499_krp_010-bkkpn2}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: punctuation, offset: 166, content: /, id: KR4d0499_krp_010-bkkpn1}
+  - {type: punctuation, offset: 166, content: ), id: KR4d0499_krp_010-bkkpn2}
+  - {type: 'kr:newline', offset: 166, content: '
 
       ', id: KR4d0499_krp_010-bkkkrnewl1}
-  - {type: page-break, offset: 0, content: '', id: KR4d0499_WYG_010-1b, image: WYG1208/WYG1208-0389b.png}
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: page-break, offset: 166, content: '', id: KR4d0499_WYG_010-1b, image: WYG1208/WYG1208-0389b.png}
+  - {type: 'kr:newline', offset: 166, content: '
 
       ', id: KR4d0499_krp_010-bkkkrnewl2}
-  - {type: line-break, offset: 0, content: '', id: KR4d0499_WYG_010-1b01}
-  - {type: indent, offset: 0, content: 　　, id: KR4d0499_krp_010-bkkind1}
-  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0499_bkk_010-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
-  - {type: 'kr:newline', offset: 19, content: '
+  - {type: line-break, offset: 166, content: '', id: KR4d0499_WYG_010-1b01}
+  - {type: indent, offset: 166, content: 　　, id: KR4d0499_krp_010-bkkind1}
+  - {type: 'voice:problem', offset: 166, length: 0, id: KR4d0499_bkk_010-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
+  - {type: 'kr:newline', offset: 185, content: '
 
       ', id: KR4d0499_krp_010-bkkkrnewl3}
-  - {type: line-break, offset: 19, content: '', id: KR4d0499_WYG_010-1b02}
-  - {type: 'kr:newline', offset: 28, content: '
+  - {type: line-break, offset: 185, content: '', id: KR4d0499_WYG_010-1b02}
+  - {type: 'kr:newline', offset: 194, content: '
 
       ', id: KR4d0499_krp_010-bkkkrnewl4}
   back: []
-hash: sha256:3ce5f1a7e6621f9fdc860a746f11793bf9254ad70e31fe650fa2c1ff1aff621f
+hash: sha256:f7910df9aea2abf0d1cd36918879112d9343fc6bf8b29a48bb2c091e1f994fb7
